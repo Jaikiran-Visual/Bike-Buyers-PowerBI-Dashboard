@@ -5,6 +5,10 @@
 **Date:** June 2026  
 **Author:** [Jai Kiran R](https://linkedin.com/in/jaikiran-analyst)
 
+📂 **Files in this repo:**
+- [`bike dash board.pbix`](./bike%20dash%20board.pbix) — ⬇️ Download & open in Power BI Desktop
+- [`Screenshot 2026-06-06 174028.png`](./Screenshot%202026-06-06%20174028.png) — Dashboard preview
+
 ---
 
 ## 📌 Project Overview
@@ -56,7 +60,7 @@ SWITCH(
 | **Gender** | Male buyers slightly outnumbered female buyers overall |
 | **Occupation** | Professional and skilled manual workers drove majority of sales |
 | **Region** | North America (50.8%) consistently outperformed Europe (30%) and Pacific (19.2%) |
-| **Commute Distance** | 0–1 mile commuters had the highest buyer count (200) vs 10+ miles (lowest) |
+| **Commute Distance** | 0–1 mile commuters had the highest buyer count vs 10+ miles (lowest) |
 
 ---
 
