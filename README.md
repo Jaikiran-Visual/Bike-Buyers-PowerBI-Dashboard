@@ -30,7 +30,7 @@ Static Excel reports require hours of manual filtering. This dashboard delivers 
 | **Map Visual — Regional Performance** | Purchase volume by geography |
 | **Stacked Bar — Occupation vs Purchase** | Buyer breakdown by job type |
 | **Line Chart — Income vs Conversion** | Income band effect on purchase rate |
-| **KPI Cards** | Total customers, total buyers, overall conversion rate |
+| **KPI Cards** | Total customers (1K), total buyers (481), conversion rate (48.1%), avg income ($56.36K) |
 
 ---
 
@@ -55,7 +55,8 @@ SWITCH(
 | **Top Buyer Group** | Middle-aged North American professionals had highest purchase volume |
 | **Gender** | Male buyers slightly outnumbered female buyers overall |
 | **Occupation** | Professional and skilled manual workers drove majority of sales |
-| **Region** | North America consistently outperformed Europe and Pacific |
+| **Region** | North America (50.8%) consistently outperformed Europe (30%) and Pacific (19.2%) |
+| **Commute Distance** | 0–1 mile commuters had the highest buyer count (200) vs 10+ miles (lowest) |
 
 ---
 
@@ -70,7 +71,7 @@ SWITCH(
 
 ## 🖼️ Dashboard Preview
 
-<img width="1375" height="774" alt="Bike Buyers Power BI Dashboard" src="https://github.com/user-attachments/assets/bdcaaa98-3c4f-4ac8-b17f-5653c4a96c45" />
+![Bike Buyers Power BI Dashboard](./Screenshot%202026-06-06%20174028.png)
 
 ---
 
